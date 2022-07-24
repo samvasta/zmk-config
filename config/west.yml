@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      url-base: https://github.com/samvasta/zmk
+      url-base: https://github.com/samvasta
   projects:
     - name: zmk
       remote: zmkfirmware
